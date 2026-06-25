@@ -95,3 +95,5 @@ const yigit = {
 <i>İşin labirenti sende kalsın; ipliği biz tutarız. 🧶</i>
 
 </div>
+
+<!-- profil readme -->
